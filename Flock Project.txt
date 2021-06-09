@@ -1,11 +1,14 @@
 <!doctype html>
 <html>
+
 <head>
 <title>My Project</title>
 </head>
+
 <body>
 <h1 style="color:red;"><B>Gandhi Monil Mrugesh</B></h1>
 <h2 style="color:red;"><B><I>Registeration No.: 20BCE10128</h2>
+
 <form>
 <h2 style="color:blue;"><center>FORM</center></h2>
 first name:<input type="text" placeholder="Enter first Name"><br>
@@ -22,8 +25,10 @@ Select Year of Graduation:<input type="radio" name="grad">2022
 <button type="submit" value="submit">Submit!!</button>
 <button type="reset" value="reset">Reset all!!</button>
 </form>
+
 <hr>
 <p style="color:lime;">"Lets play a game!!</p>
+
 <script>
 var userNumber =10;
 var counter = 0;
@@ -43,5 +48,6 @@ while (attempts != randomNumber){
     }
 }
 </script>
+
 </body>
 </html>
