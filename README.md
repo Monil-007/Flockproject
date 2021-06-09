@@ -7,10 +7,9 @@
 
 <body>
 <h1 style="color:red;"><B>Gandhi Monil Mrugesh</B></h1>
-<h2 style="color:red;"><B><I>Registeration No.: 20BCE10128</h2>
-
+<h2 style="color:red;"><B><I>Registeration No.: 20BCE10128</B></I></h2>
 <form>
-<h2 style="color:blue;"><center>FORM</center></h2>
+<h3 style="color:blue;"><center>FORM</center></h3>
 first name:<input type="text" placeholder="Enter first Name"><br>
 last name:<input type="text" placeholder="Enter last Name"><br>
 Email id:<input type="text" placeholder="Enter Official Mail id"><br>
@@ -48,6 +47,5 @@ while (attempts != randomNumber){
     }
 }
 </script>
-
 </body>
 </html>
